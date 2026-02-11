@@ -19,5 +19,8 @@ The script uses a multi-layered detection approach:
 3. Create a new script in your Tampermonkey dashboard and paste the code.
 4. Refresh LinkedIn Jobs. German roles will now appear at 50% transparency.
 
+##
+<img width="1875" height="1257" alt="image" src="https://github.com/user-attachments/assets/e025861b-8acb-46b7-8c97-4bd8642171d8" />
+
 ## ⚖️ License
 MIT License
