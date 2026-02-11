@@ -9,7 +9,7 @@ This project was co-authored by **Qimin Zhang** and **Google Gemini**. It showca
 ## 🛠️ Data-Driven Logic
 The script uses a multi-layered detection approach:
 1. **Keyword Analysis**: Scans for 20+ German business terms (e.g., *Kennzahlen, Finanz, Prüfung*).
-2. **Pattern Matching**: Advanced Regex to catch gender markers like `(m/w/d)` or `|m/f/x|`.
+2. **Pattern Matching**: Advanced Regex to catch gender markers like `(m/w/d)` .
 3. **Linguistic Heuristics**: Detects German-specific characters (ä, ö, ü, ß).
 4. **Active UI Monitoring**: Uses `MutationObserver` to handle LinkedIn's dynamic, infinite-scroll interface.
 
